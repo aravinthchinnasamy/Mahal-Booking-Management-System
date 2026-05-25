@@ -1,0 +1,6 @@
+INSERT INTO payment_methods (id, name) VALUES
+(1, 'Credit Card'),
+(2, 'Debit Card'),
+(3, 'UPI'),
+(4, 'Net Banking'),
+(5, 'Wallet');
